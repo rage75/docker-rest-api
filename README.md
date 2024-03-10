@@ -1,4 +1,4 @@
-# Spring Boot PostgreSQL Base Project
+# Dcoker Compose For Spring Boot Rest API with PostgreSQL
 
 This application was developed to demonstrate Spring Boot with PostgreSQL with simple API.
 
