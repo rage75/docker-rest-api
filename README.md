@@ -7,7 +7,7 @@ Technologies Used
 - Spring Boot 2.4.1
 - Spring Data JPA
 - Lombok
-- PostgreSQL
+- PostgreSQL (another container)
 
 How to Run this application
 
